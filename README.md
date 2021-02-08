@@ -155,7 +155,7 @@ Publish the website in the given URL.
                         </div>
                     </div>
 
-                    <div class="card col-12 col-md-3 col-lg-3">
+                    <div class="card col-12 col-md-6 col-lg-3">
                         <img class="card-img-top" src="/static/img/watermilon.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">WATER MILLON</h5>
@@ -203,6 +203,19 @@ Publish the website in the given URL.
 ![output](./static/img/o1.png)
 
 ![output](./static/img/o2.png)
+
+![output](./static/img/o3.png)
+
+![output](./static/img/o4.png)
+
+![output](./static/img/o5.png)
+
+![output](./static/img/o6.jpeg)
+
+![output](./static/img/o7.jpeg)
+
+![output](./static/img/o8.jpeg)
+
 
 ## CODE VALIDATION REPORT:
 
