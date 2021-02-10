@@ -22,7 +22,7 @@ Retrieve data from database and display it in a dynamic webpage.
 ### Step 9:
 Publish the website in the given URL.
 
-## PROGRAM:
+## PROGRAM
 
 ### reponcivepage.html
 ```
